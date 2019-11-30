@@ -1,0 +1,6 @@
+Main: Ethogram_jbALL_JAABA_1stStimulus
+or
+Main: Ethogram_jbALL_JAABA
+
+jbALL: hunch, cast, run, stop, roll, back, weak(if you want to add)
+JAABA: roll
